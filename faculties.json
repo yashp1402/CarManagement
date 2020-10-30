@@ -1,0 +1,11 @@
+[
+    
+        {"Name":"Car 1","Gender":"Eco","Course":"Good for economy","Code":"CAR3001","School":"Germany"},
+        {"Name":"Car 2","Gender":"Sports","Course":"Super Fast","Code":"CAR3002","School":"USA"},
+        {"Name":"Car 3","Gender":"LUV","Course":"Life utility vehicle","Code":"CAR3020","School":"Australia"},
+        {"Name":"Car 4","Gender":"SUV","Course":"Supervised utility vehicle","Code":"CAR3501","School":"Australia"},
+        {"Name":"Car 5","Gender":"Luxury","Course":"Money is must","Code":"CAR4001","School":"Germany"},
+        {"Name":"Car 6","Gender":"F1 race","Course":"Best for Grand Prix","Code":"CAR4015","School":"USA"},
+        {"Name":"Car 7","Gender":"Sports","Course":"For fast people","Code":"CAR1022","School":"Germany"}
+    
+]
